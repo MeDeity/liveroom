@@ -1,4 +1,4 @@
-package com.deity.liveroom;
+package com.deity.liveroom.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
